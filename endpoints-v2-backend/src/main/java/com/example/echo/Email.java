@@ -18,7 +18,7 @@
 package com.example.echo;
 
 /**ihygviyfiyfi
- * The email bean that will be used in the getUserEmail response.ysp
+ * The email bean that wimjbjbjbjbjkkjbll be used in the getUserEmail response.ysp
  */
 public class Email {
 
